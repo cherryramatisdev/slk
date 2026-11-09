@@ -1,0 +1,19 @@
+internal/ui/reducer_io.go
+  s_4fe5018630138c::t_5b45e43362b37a 51-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c86100f8eb9318c5593e6c8b70622c89237aa074",
+  "prompts": {},
+  "sessions": {
+    "s_4fe5018630138c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1f4-177b-7780-8570-1b6b1f03dc6a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
