@@ -1,0 +1,19 @@
+AGENTS.md
+  s_a27eeebcc9313b::t_13eacae7254b7c 227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "94cc704f0abf9b3adea6139144935a248d4c1330",
+  "prompts": {},
+  "sessions": {
+    "s_a27eeebcc9313b": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1c3-0319-733f-a021-95bfdd48372d",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
