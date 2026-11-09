@@ -1,0 +1,26 @@
+internal/ui/reducer_files_test.go
+  s_a27eeebcc9313b::t_16b85732e61f48 5,39,50
+  s_a27eeebcc9313b::t_ae815eaf3c0fb2 4,8,27-38,40-49,51-52
+  s_a27eeebcc9313b::t_14f757f289cc80 53
+internal/ui/reducer_files.go
+  s_a27eeebcc9313b::t_8a240df10792a9 4-5
+  s_a27eeebcc9313b::t_841cc6636bb1c9 17
+internal/ui/reducer_io.go
+  s_a27eeebcc9313b::t_20f9cef95e6a7f 105-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ec19e33565646dc1a48d4d0f65445877ab255a66",
+  "prompts": {},
+  "sessions": {
+    "s_a27eeebcc9313b": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1c3-0319-733f-a021-95bfdd48372d",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
