@@ -1,0 +1,32 @@
+internal/ui/app.go
+  s_4fe5018630138c::t_adfe60840571e0 3300,3305,3309,3311
+  s_4fe5018630138c::t_275c4fdcc6a54f 151-153
+internal/ui/reducer_files_test.go
+  s_4fe5018630138c::t_3c7b5215192f58 29-50
+  s_4fe5018630138c::t_3de50473deaa78 26,51-57
+  s_4fe5018630138c::t_ec1287916b2ab1 19,21,23-25,78,80
+  s_4fe5018630138c::t_46f79f17621427 27-28
+internal/ui/msgs.go
+  s_4fe5018630138c::t_856b5283c3113d 586-590
+internal/ui/reducer_files.go
+  s_4fe5018630138c::t_d18456883e6b3f 9-10,15-31,34-45
+  s_4fe5018630138c::t_e9e48b461694d9 46
+internal/ui/seams_test.go
+  s_4fe5018630138c::t_0b26703760c008 584-585
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2d503940cd6975527ec33712695ca0e005adf746",
+  "prompts": {},
+  "sessions": {
+    "s_4fe5018630138c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1f4-177b-7780-8570-1b6b1f03dc6a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
