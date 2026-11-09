@@ -1,0 +1,19 @@
+internal/ui/msgs.go
+  s_4fe5018630138c::t_f32e5c3b116285 587-588
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "beb364f6dfa330d0d6db8345d3c8554af037d725",
+  "prompts": {},
+  "sessions": {
+    "s_4fe5018630138c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1f4-177b-7780-8570-1b6b1f03dc6a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
