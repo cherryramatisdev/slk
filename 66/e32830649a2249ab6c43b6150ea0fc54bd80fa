@@ -1,0 +1,19 @@
+internal/ui/app.go
+  s_4fe5018630138c::t_8f5f66952009cf 154-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "66e32830649a2249ab6c43b6150ea0fc54bd80fa",
+  "prompts": {},
+  "sessions": {
+    "s_4fe5018630138c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c1f4-177b-7780-8570-1b6b1f03dc6a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
