@@ -1,0 +1,28 @@
+internal/ui/reducer_links_test.go
+  s_b74cb274976f31::t_939e067c113418 72-91
+internal/ui/reducer_links.go
+  s_b74cb274976f31::t_ca3b73a26cbd02 194-195
+  s_b74cb274976f31::t_caa904f2ec8a9c 27,191,207
+internal/ui/app.go
+  s_b74cb274976f31::t_77c78e2d0cda8a 594-596,598,3786
+  s_b74cb274976f31::t_c2e5ad4734bbdd 593,3780-3785,3787-3791
+  s_b74cb274976f31::t_87fde9d5584b09 1007
+  s_b74cb274976f31::t_0d452e569d7273 1735
+  s_b74cb274976f31::t_8a1895ca769a9a 3792-3793
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "43eb83a52b373f74edca067d9e7d177bbe4f12c0",
+  "prompts": {},
+  "sessions": {
+    "s_b74cb274976f31": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1e445-9f84-774c-b81c-9e66e4fd655a",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
