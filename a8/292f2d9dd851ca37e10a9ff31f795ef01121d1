@@ -1,0 +1,19 @@
+internal/ui/reducer_links.go
+  s_b74cb274976f31::t_3149a9e3e49eb9 189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a8292f2d9dd851ca37e10a9ff31f795ef01121d1",
+  "prompts": {},
+  "sessions": {
+    "s_b74cb274976f31": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1e445-9f84-774c-b81c-9e66e4fd655a",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Cherry Ramatis <cherry.ramatis@icloud.com>"
+    }
+  }
+}
